@@ -53,6 +53,10 @@ This repository presents a cutting-edge markerless gait analysis system that lev
   - Matplotlib
   - Seaborn
   - Ultralytics
+  - Singularity
+  -  OpenPose
+  -  VitPose
+  -  Yolov11
 - **Development Tools**:
   - Google Colab
   - Kinovea
@@ -96,8 +100,5 @@ Contributions are welcome! Please submit a pull request or open an issue to disc
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-vbnet
-Copy code
 
 Let me know if you’d like any further adjustments!
